@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Loyalty.MVCWeb/1.0.0": {
+        "runtime": {
+          "Loyalty.MVCWeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loyalty.MVCWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
